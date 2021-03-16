@@ -1,0 +1,10 @@
+{
+	"authors": [
+		{ "email": "bappli@bappli.com", "name": "B-APPLI" }
+	],
+	"description":  "A test repository",
+	"license":      "MIT",
+	"name":         "bappli/repotwice",
+	"version":      "0.0.1"
+}
+
